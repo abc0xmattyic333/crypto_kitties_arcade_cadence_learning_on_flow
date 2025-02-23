@@ -1,7 +1,7 @@
 {
 	"contracts": {
 		"KittyCreator": {
-			"source": "C:\\Users\\abc0x\\Documents\\vs_code\\crypto_kitties_arcade_cadence_learning_on_flow\\src\\contracts\\KittyCreator_contract_creation.cdc",
+			"source": "src/contracts/KittyCreator.cdc",
 			"aliases": {
 				"testing": "0000000000000007"
 			}
